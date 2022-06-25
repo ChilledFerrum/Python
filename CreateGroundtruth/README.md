@@ -1,11 +1,12 @@
+# Bounding Box & Class Type annotation embedder algorithm for the ExDark Dataset
+![ExDark](/Assets/Exdark.gif)
 ## Preferred Directory Path
-```
-- Project Directory
-      - CreateGroundtruth
-      - ExDark
-         - Groundtruth
-         - Dataset
-```
+1. Project Directory
+   - CreateGroundtruth
+   - ExDark
+     - Groundtruth
+     - Dataset
+
 ### BiTeX citations:
 
 ```
