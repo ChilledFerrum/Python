@@ -1,5 +1,6 @@
 # Bounding Box & Class Type annotation embedder algorithm for the ExDark Dataset
 <img src="Assets/Exdark.gif"/>
+
 ## Preferred Directory Path
 1. Project Directory
    - CreateGroundtruth
