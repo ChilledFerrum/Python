@@ -1,7 +1,6 @@
 import os
 import cv2 as cv
 
-
 datasetPath = "ExDark/Dataset"
 groundtruthPath = "ExDark/Groundtruth"
 
