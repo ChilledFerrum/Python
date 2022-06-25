@@ -1,12 +1,12 @@
 Preferred Directory Path
-
-CreateGroundtruth
-
-ExDark
-  * Groundtruth
-  * Dataset
-
+```
+- CreateGroundtruth
+- ExDark
+   - Groundtruth
+   - Dataset
+```
 BiTeX citations:
+
 ```
 @article{Exdark,
   title={Getting to Know Low-light Images with The Exclusively Dark Dataset},
