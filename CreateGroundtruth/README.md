@@ -1,9 +1,10 @@
 Preferred Directory Path
 ```
-- CreateGroundtruth
-- ExDark
-   - Groundtruth
-   - Dataset
+- Project Directory
+      - CreateGroundtruth
+      - ExDark
+         - Groundtruth
+         - Dataset
 ```
 BiTeX citations:
 
