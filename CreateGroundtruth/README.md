@@ -1,4 +1,4 @@
-#Preferred Directory Path
+## Preferred Directory Path
 ```
 - Project Directory
       - CreateGroundtruth
@@ -6,7 +6,7 @@
          - Groundtruth
          - Dataset
 ```
-##BiTeX citations:
+### BiTeX citations:
 
 ```
 @article{Exdark,
