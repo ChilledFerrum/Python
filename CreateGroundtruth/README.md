@@ -21,3 +21,12 @@
   doi={https://doi.org/10.1016/j.cviu.2018.10.010}
 }
 ```
+### Cite this repository
+```
+@misc{MyAnnotationEmbedder,
+    title = {\href{https://github.com/ChilledFerrum/Python/tree/main/CreateGroundtruth}{Bounding Box \& Class Type annotation embedder algorithm for the ExDark Dataset}},
+    author = {Mpouziotas Dimitrios},
+    year = {2022},
+    month = {June}
+}
+```
