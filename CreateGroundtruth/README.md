@@ -1,4 +1,6 @@
 # Bounding Box & Class Type annotation embedder algorithm for the ExDark Dataset
+This algorithm embeds all of ExDark's groundtruth information from the text files, into all of ExDark's images.<br/>
+The algorithm draws the bounding boxes and prints the class type on the top left of the drawn bounding box.<br/>
 <img src="Assets/Exdark.gif"/>
 
 ## Preferred Directory Path
@@ -14,9 +16,9 @@ pip install -r requirements.txt
 python SetAnnotations.py
 ```
 ## Output
-Groundtruth images will be generated in the folder "Groundtruth_Images", estimated result will be approximately 1.4GB-1.8GB.
-Recommended minimum disk space 4GB.
-
+Groundtruth images will be generated in the folder "Groundtruth_Images". <br/>
+Estimated result will be approximately 1.4GB-1.8GB.<br/>
+Recommended minimum disk space 4GB.<br/>
 
 ### BiTeX citations:
 
