@@ -8,6 +8,15 @@
      - Groundtruth
      - Dataset
 
+## Execute/Run
+```
+pip install -r requirements.txt
+python SetAnnotations.py
+```
+## Output
+Estimated result will be approximately 1.4GB-1.8GB.
+Recommended minimum disk space 4GB.
+
 ### BiTeX citations:
 
 ```
